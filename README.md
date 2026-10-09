@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦎 REPTILE.EXE
+# REPTILE.EXE
 
 **Software Developer · Papua New Guinea 🇵🇬**
 
